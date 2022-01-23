@@ -19,7 +19,7 @@
             android:name=".profile"
             android:exported="false" />
         <activity
-            android:name=".CutiKerja"
+            android:name=".MainActivity"
             android:exported="false" />
         <activity
             android:name=".IzinKerja"
@@ -31,7 +31,7 @@
             android:name=".login"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".CutiKerja"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
