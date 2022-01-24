@@ -5,13 +5,15 @@
       <map>
         <entry key="..\:/Users/Zain_Aris/AndroidStudioProjects/UAS_DPM_TI5A_ABSENAPP/app/src/main/res/drawable-v24/bglayout.xml" value="0.20185185185185187" />
         <entry key="..\:/Users/Zain_Aris/AndroidStudioProjects/UAS_DPM_TI5A_ABSENAPP/app/src/main/res/drawable-v24/bglayoutblurputih.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/Zain_Aris/AndroidStudioProjects/UAS_DPM_TI5A_ABSENAPP/app/src/main/res/drawable-v24/bgputih.xml" value="0.22760416666666666" />
         <entry key="..\:/Users/Zain_Aris/AndroidStudioProjects/UAS_DPM_TI5A_ABSENAPP/app/src/main/res/layout/activity_cuti_kerja.xml" value="0.11458333333333333" />
-        <entry key="..\:/Users/Zain_Aris/AndroidStudioProjects/UAS_DPM_TI5A_ABSENAPP/app/src/main/res/layout/activity_dashboard.xml" value="0.11458333333333333" />
+        <entry key="..\:/Users/Zain_Aris/AndroidStudioProjects/UAS_DPM_TI5A_ABSENAPP/app/src/main/res/layout/activity_dashboard.xml" value="0.35458515283842795" />
         <entry key="..\:/Users/Zain_Aris/AndroidStudioProjects/UAS_DPM_TI5A_ABSENAPP/app/src/main/res/layout/activity_izin_kerja.xml" value="0.11458333333333333" />
-        <entry key="..\:/Users/Zain_Aris/AndroidStudioProjects/UAS_DPM_TI5A_ABSENAPP/app/src/main/res/layout/activity_kerja_diluar_kantor.xml" value="0.11458333333333333" />
+        <entry key="..\:/Users/Zain_Aris/AndroidStudioProjects/UAS_DPM_TI5A_ABSENAPP/app/src/main/res/layout/activity_kerja_diluar_kantor.xml" value="0.25" />
         <entry key="..\:/Users/Zain_Aris/AndroidStudioProjects/UAS_DPM_TI5A_ABSENAPP/app/src/main/res/layout/activity_lembut_kerja.xml" value="0.11458333333333333" />
         <entry key="..\:/Users/Zain_Aris/AndroidStudioProjects/UAS_DPM_TI5A_ABSENAPP/app/src/main/res/layout/activity_login.xml" value="0.19" />
         <entry key="..\:/Users/Zain_Aris/AndroidStudioProjects/UAS_DPM_TI5A_ABSENAPP/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Zain_Aris/AndroidStudioProjects/UAS_DPM_TI5A_ABSENAPP/app/src/main/res/layout/activity_presensi.xml" value="0.25" />
         <entry key="..\:/Users/Zain_Aris/AndroidStudioProjects/UAS_DPM_TI5A_ABSENAPP/app/src/main/res/layout/activity_profile.xml" value="0.11458333333333333" />
       </map>
     </option>
