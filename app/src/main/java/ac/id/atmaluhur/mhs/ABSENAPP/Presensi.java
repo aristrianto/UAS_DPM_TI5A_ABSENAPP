@@ -12,10 +12,26 @@ public class Presensi extends AppCompatActivity {
     ImageView izin;
     ImageView cuti;
     ImageView lembur;
+    ImageView dashboard;
+    ImageView profile;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_presensi);
+        dashboard = (ImageView )findViewById(R.id.dashboard5);
+        dashboard.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(Presensi.this, dashboard.class));
+            }
+        });
+        profile = (ImageView )findViewById(R.id.profile5);
+        profile.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(Presensi.this, profile.class));
+            }
+        });
         kerjaluar = (ImageView )findViewById(R.id.btnKerjaLuarKantor);
         kerjaluar.setOnClickListener(new View.OnClickListener() {
             @Override
